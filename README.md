@@ -44,12 +44,3 @@ Ensure that your project is saved inside your wamp server's www directory, usual
 | Username | Password   | 
 | :------- | :-------   | 
 | `user1`  | `admin`    |
-
-## Authors and acknowledgment
-We are students from Saint Louis University in Baguio City currently taking up Bachelor of Science in Information Technology
-- [@2220144](https://www.github.com/octokatherine)
-- [@2225369](https://gitlab.com/2225369)
-- [@Jay_Imbuido](https://gitlab.com/Jay_Imbuido)
-- [@2224202](https://gitlab.com/2224202)
-- [@2220162](https://gitlab.com/2220162)
-- [@2220073](https://gitlab.com/2220073)
